@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liang23wen.github.io</id>
     <title>Gridea</title>
-    <updated>2020-05-26T07:17:45.274Z</updated>
+    <updated>2020-05-26T07:52:16.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liang23wen.github.io"/>
     <link rel="self" href="https://liang23wen.github.io/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://liang23wen.github.io/images/avatar.png</logo>
     <icon>https://liang23wen.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[哦吼]]></title>
+        <id>https://liang23wen.github.io/post/e-hou/</id>
+        <link href="https://liang23wen.github.io/post/e-hou/">
+        </link>
+        <updated>2020-05-26T07:50:22.000Z</updated>
+        <content type="html"><![CDATA[<p>哦吼，开始了呀，可以自己搭一个网站来写博客了。开森~~</p>
+<p>想着先把自己的技术类的文章放上去吧。Markdown格式的图片真的是个大问题的，不晓得好不好放上去。</p>
+<p>试试看吧。。。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://liang23wen.github.io/post/hello-gridea/</id>
